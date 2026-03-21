@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: ghcr.io/irfanjat/myapp:c902fe3d6f956095ddfff543ce4e8d7fcc0a14d3
+          image: ghcr.io/irfanjat/myapp:8ce7cf3d86ec31c5df6dcfe6fadcafffcb846b5f
           ports:
             - containerPort: 5000
           resources:
